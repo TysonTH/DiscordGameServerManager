@@ -3,7 +3,7 @@ Discord Bot interface that allows users and server admins to interact and execut
 
 This was written with only private use in mind, so it currently does not have any security features in place that you would expect a public Discord bot to have.
 
-This has not been tested on Windows, so it assumes you will be running this under a common Debian distribution and a bash shell, but it should be easy to set up with a little know-how.
+This has not been tested on Windows, so it assumes you will be running this under a typical GNU/Linux distribution with a Bash shell, but it should be easy to set up on other configurations with a little know-how.
 
 ## Requirements
 
